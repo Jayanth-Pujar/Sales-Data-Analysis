@@ -82,6 +82,9 @@ The aforementioned process starts with selecting the desired column. Following t
 
 https://github.com/Jayanth-Pujar/Sales-Data-Analysis/assets/148257677/3cc4d4c7-0f60-40ae-8a0f-a34b02b743a3
 
+# My Other Project links 🔗 :
+1. :bow_and_arrow: https://github.com/Jayanth-Pujar/HR-Analytics.git
+
 
 
 
